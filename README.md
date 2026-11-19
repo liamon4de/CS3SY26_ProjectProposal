@@ -133,3 +133,6 @@ Integrate an order monitoring feature that allows restaurant staff to update the
 
 **Objective 4:** 
 Develop a delivery management system that assigns available riders to confirmed orders and allows delivery statuses to be updated as well.
+
+### Message to Sir Roy: 
+hi sir we love bonchon 'u'
